@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cont-center {
+    text-align: center;
+}
+
+.bg-dark {
+    background-color: blue!important;
+    ;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar {
+    height: 50px !important;
+}
+
+.nav-link:hover {
+    border-bottom: 1px solid white;
+}
+
+.input-group-text {
+    background-color: black!important;
+}
